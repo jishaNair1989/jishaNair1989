@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/jisha4uuuuu" target="blank"><img src="https://img.shields.io/twitter/follow/jisha4uuuuu?logo=twitter&style=for-the-badge" alt="jisha4uuuuu" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Application**
+- 🔭 I’m currently working on **Buddy**
 
 - 🌱 I’m currently learning **Flutter**
 
